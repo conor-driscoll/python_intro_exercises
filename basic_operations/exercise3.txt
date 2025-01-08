@@ -1,0 +1,2 @@
+The following code concatenates the strings '5' and '10' into a new string, 510, and then prints this string.
+Because this code involves strings, concatenation is performed, rather than addition.

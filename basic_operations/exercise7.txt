@@ -1,0 +1,2 @@
+An error will be returned.
+This is because the int() type coercion will fail, since the string contains a decimal number, not an integer. 
