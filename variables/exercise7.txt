@@ -1,0 +1,2 @@
+This program involves the inadvisable practice of changing the value of a previously established constant.
+This code will run without errors, but it would probably create issues if it was incorporated within a larger program.

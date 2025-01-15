@@ -1,0 +1,8 @@
+idiomatic
+non-idiomatic (this is CamelCase, customarily used for naming classes)
+idiomatic
+non-idiomatic (variable names customarily use all lower case)
+illegal (names starting with numbers are illegal)
+idiomatic
+non-idiomatic (SCREAMING_SNAKE_CASE is customarily used to name constants)
+non-idiomatic (uses a character which isn't a letter, number, or underscore, but is within the "extended" ASCI II set)

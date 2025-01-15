@@ -1,0 +1,8 @@
+non-idiomatic (regular snake_case names are not customarily used to name constants)
+non-idiomatic (CamelCase names are only customarily used to name classes)
+non-idiomatic (regular snake_case names are not customarily used to name constants)
+idiomatic
+illegal (it is illegal to begin a python identifier with a number)
+non-idiomatic (regular snake_case names are not customarily used to name constants)
+idiomatic
+non-idiomatic (this name isn't idiomatic, as it's not SCREAMING_SNAKE_CASE, but it's also not illegal, because it uses a symbol from within the ASCII "extended" character list)

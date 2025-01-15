@@ -1,0 +1,7 @@
+non-idiomatic (1st letter isn't capitalized)
+idiomatic
+non-idiomatic (underscore is present)
+illegal (potential name begins with digit)
+non-idiomatic (1st letter isn't capitalized)
+idiomatic
+non-idiomatic (uses a character from outside the standard ASCII set)
