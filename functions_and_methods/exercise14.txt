@@ -1,0 +1,10 @@
+Line 1: multiply, left, right
+Line 2: left, right
+Line 3:
+Line 4: get_num, prompt
+Line 5: prompt, float, input
+Line 6: 
+Line 7: first_number, get_num
+Line 8: second_number, get_num
+Line 9: product, multiply, first_number, second_number
+Line 10: first_number, second_number, product, print 

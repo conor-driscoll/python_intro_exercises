@@ -1,0 +1,1 @@
+This code will throw an error, because a parameter w/out a default value follows a parameter with a default value in the function definition.

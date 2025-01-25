@@ -1,0 +1,1 @@
+The following code will throw an error, because the function 'foo' includes two parameters, but is only invoked with one argument.

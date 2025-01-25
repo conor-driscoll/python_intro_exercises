@@ -1,0 +1,9 @@
+Function names:
+say 
+print (built-in)
+input (built-in)
+max   (built-in)
+
+Method names:
+upper
+lower

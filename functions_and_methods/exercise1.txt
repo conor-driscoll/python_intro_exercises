@@ -1,0 +1,2 @@
+Result: "NameError: name 'foo' is not defined." 
+This is because 'foo' is only defined locally within the 'set_foo' function, and not at the main scope.

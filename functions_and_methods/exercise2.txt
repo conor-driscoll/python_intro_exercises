@@ -1,0 +1,2 @@
+This program prints 'bar'.
+This is because even though value of the variable 'foo' gets shadowed locally from its original value of 'bar' within the function 'set_foo', this shadowing does not affect its value at the main level scope. 
