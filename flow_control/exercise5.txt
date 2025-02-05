@@ -1,0 +1,4 @@
+This code outputs the following:
+Empty
+
+This is because the argument [] is falsy, so the else block runs.
