@@ -1,0 +1,1 @@
+Because strings can be indexed as sequences of their building blocks, characters.

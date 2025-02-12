@@ -1,0 +1,3 @@
+Lists are mutable while tuples are not, so therefore lists offer more flexibility, while tuples are less likely to be a source of bugs, especially in complex programs and systems with concurrent work occuring.
+
+Lists and tuples are both ordered collections and they both can be made up of mutable or immutable objects.

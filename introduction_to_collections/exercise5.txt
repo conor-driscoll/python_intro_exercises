@@ -1,0 +1,2 @@
+1. Sequences are ordered while sets aren't, therefore sequences support indexing while sets don't.
+2. Sequences support duplicate elements while sets don't.
