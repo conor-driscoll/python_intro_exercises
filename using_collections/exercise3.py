@@ -1,0 +1,7 @@
+my_tpl_initial = (1, 2, 3, 4, 5)
+my_list = list(my_tpl_initial) 
+my_list.pop()
+my_list.reverse()
+my_list.pop()
+my_tpl_final = tuple(my_list)
+print(my_tpl_final)
